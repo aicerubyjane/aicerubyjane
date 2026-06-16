@@ -61,14 +61,15 @@ My focus is on building interfaces that are responsive, easy to use, and polishe
 
 ---
 
-## Featured Works
+##  Featured Works
 
-<div align="center">
+| Project                                                                                          | What it does                                                                                                                   | Tech                  |
+| ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ | --------------------- |
+| **[Rail Nusantara](https://github.com/aicerubyjane/rail-nusantara)**                             | Railway management simulation game with route operations, passenger demand, delays, fleet management, and autosave system.     | HTML, CSS, JavaScript |
+| **[Pinjaman Berkah Landing Page](https://github.com/aicerubyjane/pinjaman-berkah-landing-page)** | Responsive landing page for a fictional loan service with structured sections, forms, gallery, testimonials, and contact area. | PHP, HTML, CSS        |
 
-| Project | Description | Tech |
-|---|---|---|
-| Rail Nusantara | Railway management simulation game with route, fleet, scheduling, economy simulation, and local save system. | HTML, CSS, JavaScript |
-| Pinjaman Berkah | Fictional academic landing page for a loan service with hero, forms, gallery, testimonials, and responsive sections. | PHP, HTML, CSS |
+Currently building more projects focused on frontend development, UI/UX, and practical business tools.
+
 
 </div>
 
