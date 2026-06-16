@@ -67,9 +67,10 @@ My focus is on building interfaces that are responsive, easy to use, and polishe
 
 | Project | Description | Tech |
 |---|---|---|
-| Coming Soon | Selected works will be added here soon. | HTML, CSS, JavaScript |
-| UI Slicing Practice | Clean interface slicing practice from design references. | HTML, CSS |
-| Simple Web App | Basic dynamic website practice using backend and database. | PHP, Laravel, MySQL |
+| Rail Nusantara | A railway management simulation game featuring route management, scheduling, fleet operations, economy simulation, map interaction, and local save system. | HTML, CSS, JavaScript |
+| TemaTi | A PHP profile and transaction web app with search, filter, detail pages, payment simulation, chat session, and form validation using PHP arrays and sessions. | PHP, HTML, CSS, Bootstrap, JavaScript |
+| Pinjaman Berkah | A fictional landing page practice project for a loan service with hero section, product information, forms, gallery, testimonials, and footer content. | PHP, HTML, CSS |
+| Motor Rental Database | A database design practice for motorcycle rental management, including customers, vehicles, rental schedules, transactions, and rental history. | MySQL, JSON |
 
 </div>
 
