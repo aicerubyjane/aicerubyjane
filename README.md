@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1200&color=F97316&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aice;Frontend+Developer;Web+Developer;UI%2FUX+Enthusiast" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7a18,100:af002d&height=180&section=header&text=Aice%20Ruby%20Jane&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=FF7A18&center=true&vCenter=true&width=650&lines=Frontend+Developer;Web+Developer;UI%2FUX+Enthusiast;Building+clean+and+responsive+web+interfaces" alt="Typing SVG" />
 
 <p>
-  <strong>Frontend Developer · Web Developer · UI/UX Enthusiast</strong>
+  I create clean, responsive, and user-friendly web experiences with attention to layout, usability, and visual details.
 </p>
 
 <p>
-  I build clean, responsive, and user-friendly web interfaces.
+  <img src="https://komarev.com/ghpvc/?username=aicerubyjane&style=for-the-badge&color=ff7a18" alt="Profile views" />
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=aicerubyjane&style=flat-square&color=orange" alt="Profile views" />
 
 </div>
 
@@ -18,74 +18,89 @@
 
 ## About Me
 
-Hi, I'm **Aice**.
+Hi, I'm **Aice** — a Frontend Developer, Web Developer, and UI/UX enthusiast based in Indonesia.
 
-I'm a Frontend Developer, Web Developer, and UI/UX enthusiast who enjoys turning ideas into simple, functional, and visually clean web experiences.
+I enjoy turning ideas into simple, functional, and visually clean web experiences.  
+My focus is on building interfaces that are responsive, easy to use, and polished in the small details.
 
-I focus on creating interfaces that feel easy to use, responsive across devices, and polished in the small details.
-
-- Based in Indonesia
-- Interested in clean UI and responsive web design
-- Currently learning, building, and improving one project at a time
+- Currently learning and improving my web development skills
+- Interested in clean UI, responsive design, and better user experiences
+- Exploring frontend development, web design, and dynamic websites
+- Open to learning, collaboration, and building small but meaningful projects
 
 ---
 
 ## Tech Stack
 
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend skills" />
-
-**Backend & Database**
-
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql" alt="Backend and database skills" />
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Tools" />
-
----
-
-## What I Do
-
-- Build responsive websites
-- Create clean and simple user interfaces
-- Turn UI ideas into real web pages
-- Design layouts with usability in mind
-- Develop basic dynamic websites using PHP, Laravel, and MySQL
-
----
-
-## Featured Works
-
-Selected works will be added here soon.
-
-Currently preparing small web projects, UI slicing practices, and responsive website works to be featured here.
-
----
-
-## GitHub Stats
-
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aicerubyjane&show_icons=true&theme=default&hide_border=true&title_color=F97316&icon_color=F97316" alt="GitHub Stats" />
+### Frontend
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aicerubyjane&layout=compact&theme=default&hide_border=true&title_color=F97316" alt="Top Languages" />
+<img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend Skills" />
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql" alt="Backend Skills" />
+
+### Tools & Design
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Tools" />
 
 </div>
 
 ---
 
-## Connect
+## What I Like To Build
+
+- Responsive websites
+- Clean landing pages
+- Simple and usable web interfaces
+- UI slicing from design to code
+- Basic dynamic websites using PHP, Laravel, and MySQL
+- Web layouts that feel neat, readable, and easy to navigate
+
+---
+
+## Featured Works
+
+<div align="center">
+
+| Project | Description | Tech |
+|---|---|---|
+| Coming Soon | Selected works will be added here soon. | HTML, CSS, JavaScript |
+| UI Slicing Practice | Clean interface slicing practice from design references. | HTML, CSS |
+| Simple Web App | Basic dynamic website practice using backend and database. | PHP, Laravel, MySQL |
+
+</div>
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aicerubyjane&show_icons=true&theme=radical&hide_border=true&title_color=ff7a18&icon_color=ff7a18" alt="GitHub Stats" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aicerubyjane&layout=compact&theme=radical&hide_border=true&title_color=ff7a18" alt="Top Languages" />
+
+</div>
+
+---
+
+## Connect With Me
+
+<div align="center">
 
 <a href="https://github.com/aicerubyjane">
-  <img src="https://img.shields.io/badge/GitHub-aicerubyjane-181717?style=flat-square&logo=github" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-aicerubyjane-181717?style=for-the-badge&logo=github" alt="GitHub" />
 </a>
+
+</div>
 
 ---
 
 <div align="center">
 
-simple design, clean code, better experience.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:af002d,100:ff7a18&height=120&section=footer" />
 
 </div>
